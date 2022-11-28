@@ -1,0 +1,74 @@
+h1,
+p,
+h2 {
+  text-align: center;
+}
+h1,
+h2 {
+  color: #07a4b5;
+  font-family: "Roboto Slab", serif;
+}
+
+h1 {
+  font-weight: 900;
+}
+p {
+  font-family: "Kalam", cursive;
+  font-size: 32px;
+  font-weight: 400;
+}
+h2 {
+  font-size: 60px;
+  font-weight: 700;
+  padding-bottom: 25px;
+}
+
+.time {
+  font-size: 42px;
+}
+
+.city,
+.search {
+  background: #f5f6f6;
+  border-color: #07a4b5;
+  border-radius: 20px;
+  border-width: 3px;
+  font-family: "Kalam", cursive;
+  font-size: 20px;
+  text-align: center;
+}
+.city {
+  margin: 20px 30px 40px 20px;
+  padding: 10px 100px;
+}
+.search {
+  margin: 20px 20px 20px 110px;
+  padding: 10px 25px;
+}
+.container {
+  background: #f7ebdb;
+  font-family: "Kalam", cursive;
+  font-size: 24px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.card-body {
+  background: #f7ebdb;
+  border-radius: 60px;
+}
+.fa-sun {
+  font-size: 36px;
+  color: #e8630a;
+}
+.fa-cloud {
+  font-size: 36px;
+  color: #07a4b5;
+}
+.fa-cloud-rain {
+  font-size: 36px;
+  color: #07a4b5;
+}
+.fa-cloud-sun {
+  font-size: 36px;
+  color: #e8630a;
+}
